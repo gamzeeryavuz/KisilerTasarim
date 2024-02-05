@@ -15,4 +15,6 @@ This is a basic contacts application for Android, written in Java.
 - Android SDK version 16 or higher
 
 
-
+## 
+![](kisiler.png) 
+![](kisidetay.png) 
